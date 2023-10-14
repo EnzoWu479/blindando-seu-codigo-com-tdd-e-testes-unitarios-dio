@@ -1,0 +1,15 @@
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\bin\Debug\net7.0\NewTalents.exe
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\bin\Debug\net7.0\NewTalents.dll
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.csproj.AssemblyReference.cache
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.dll
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+d:\Programação\CSharp\blindando-seu-codigo-com-tdd-e-testes-unitarios-dio\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
